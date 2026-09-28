@@ -14,6 +14,6 @@ python phase_explorer.py --shots 2048 --seed 42
 python -m unittest discover -s tests -v
 ```
 
-يحتوي "experiment.ipynb" على الشرح والنتايج، ينفتح في Jupyter او Colab لتشغيل الخلايا *ملاحظة مهمة : المحاكاة رح تصير معنا على Qiskit ليس على جهاز كمي فعلي !
+يحتوي "experiment.ipynb" على الشرح والنتايج، ينفتح في Jupyter او Colab لتشغيل الخلايا *ملاحظة مهمة : المحاكاة رح تصير معنا على Qiskit مو على جهاز كمي فعليا !
 
  References: [Qiskit Statevector](https://quantum.cloud.ibm.com/docs/en/api/qiskit/2.2/qiskit.quantum_info.Statevector), [Qiskit QuantumCircuit](https://quantum.cloud.ibm.com/docs/en/api/qiskit/2.2/qiskit.circuit.QuantumCircuit), [QWorld Bronze](https://qworld.net/workshop-bronze/), [QWorld Silver](https://qworld.net/qsilver/).
