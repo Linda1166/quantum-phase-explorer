@@ -1,0 +1,12 @@
+{
+  "experiment": "Quantum Phase Explorer",
+  "shots_per_phase": 2048,
+  "seed": 42,
+  "phase_points": 65,
+  "python": "3.12.14",
+  "qiskit": "2.2.3",
+  "numpy": "2.3.5",
+  "max_absolute_theory_error": 6.661338147750939e-16,
+  "backend": "Ideal Qiskit Statevector; NumPy multinomial sampling",
+  "hardware_run": false
+}
