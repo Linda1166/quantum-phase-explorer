@@ -7,7 +7,6 @@ The H–P(φ)–H sequence turns relative phase into observable interference: P(
 ## Run
 
 Create a virtual environment and install dependencies:
-
 ```bash
 python -m venv .venv
 source .venv/bin/activate
